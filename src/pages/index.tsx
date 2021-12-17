@@ -32,7 +32,7 @@ export default ({ pageContext }: PageProps<object, GatsbyTypes.SitePageContext>)
       <PowerFulTools />
       <WithoutVersions />
       <BringYourOwnData />
-      <WhosUsing />
+      <WhosUsings />
     </Layout>
   )
   }
